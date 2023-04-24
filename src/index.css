@@ -23,7 +23,8 @@
 
   --container-width-lg: 75%;
   --container-width-mid: 86%;
-  --container-width-ms: 90%;
+  --container-width-sm: 90%;
+  
 }
 
 html {
@@ -61,7 +62,6 @@ h1 {
 }
 section {
   margin-top: 8rem;
-  height: 100vh;
 }
 
 section > h2, 
