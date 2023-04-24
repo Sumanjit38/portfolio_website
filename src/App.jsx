@@ -7,6 +7,7 @@ import Projects from './components/projects/Projects'
 import Academics from './components/academics/Academics'
 import Contact from './components/contact/Contact'
 import Footer from './components/footer/Footer'
+import { useState, useEffect } from 'react';
 
 function App() {
   return (
